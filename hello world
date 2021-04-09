@@ -1,0 +1,17 @@
+<html>
+
+<head>
+    <title>Hello World!</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+</head>
+
+<body>
+    <h1 id="h1" onclick="changecolor()">Hello World!</h1>
+    <p1>Hello everyone! I am Jasmeen from Whitehat.I am a certified game developer and a coder.I love to code and that's what is my passion.I love to dance and swim!! I seek guidance from my teacher Ms.Ancy Johny.She is a marvelous teacher.I have completed 55 classes under whitehat.I study in Std-5 in Sai International School,Bhubaneswar Odisha.I love to code!!My favourite subject is Maths because there is very much to understand.I don't like Social Studies cause there is less to understand and more to remember dates and name.My favourite teacher is Ms.Ancy Johny!I love italic food and South-Indian food too!I love travelling and I can never fail to do so!My family comprises of my mother,father,sister and grandpa.I love my sister the most!!
+    I can never forget the love of coding!!
+    Jasmeen!
+    Whitehat😊</p1>
+</body>
+
+</html>
